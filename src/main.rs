@@ -1,8 +1,6 @@
 use std::process::Command;
 
-
 mod my_mod;
-
 
 fn main() {
     println!("Hello from test Rust project for study git!");
